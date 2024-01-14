@@ -1,0 +1,7 @@
+{
+  "name": "test32424",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [],
+  "typescript": true
+}
